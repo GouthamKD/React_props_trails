@@ -1,0 +1,3 @@
+# node modules to be ignored from being pushed
+
+node_modules
